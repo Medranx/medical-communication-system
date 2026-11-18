@@ -60,10 +60,9 @@ After the original class version, I made these changes:
 
 ## Team
 
-- Marina Medrano – [describe your part, e.g. authentication, appointments, CLI]
-- [Teammate name]
-- [Teammate name]
+Marina Medrano (project lead): designed the system layout and structure, built the core modules (database, authentication, appointments, records, prescriptions, notifications, and CLI), integrated and tested the full application, presented the final project, and later added the security improvements
 
+Shilvi and Rohan: helped review and clean up the code
 ## Tech
 
 Python · hashlib · secrets · command-line interface
